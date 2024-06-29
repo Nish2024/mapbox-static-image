@@ -1,0 +1,1 @@
+# mapbox-static-image
